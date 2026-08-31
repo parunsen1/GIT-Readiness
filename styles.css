@@ -12,12 +12,12 @@ body {
 
 .site-header,
 main {
-  width: min(100% - 2rem, 52rem);
+  width: min(100% - 2rem, 337rem);
   margin-inline: auto;
 }
 
 .site-header {
-  display: flexbox;
+  display: flex;
   align-items: center;
   justify-content: space-between;
   padding-block: 1rem;
